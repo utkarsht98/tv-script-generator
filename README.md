@@ -14,7 +14,7 @@ Use LSTM models to generate 'fake' tv scripts given tv scripts for serials.
 
 # Procedure to run the notebook
 - First, Clone the repository.
-- Download a script from any trusted source for datasets. One such source is (kaggle)[https://www.kaggle.com/datasets].
+- Download a script from any trusted source for datasets. One such source is [Kaggle](https://www.kaggle.com/datasets).
 - An example tv script for the show seinfield is provided. You can download using [this](https://www.kaggle.com/thec03u5/seinfeld-chronicles#scripts.csv) link.
 - Store the downloaded text file in a created directory named 'data'.
 - Run all the notebook cells provided in the notebook. It is recommended to use 'GPU' while training the RNN model.
