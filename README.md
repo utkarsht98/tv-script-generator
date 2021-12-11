@@ -2,8 +2,8 @@
 Use LSTM models to generate 'fake' tv scripts given tv scripts for serials.
 
 # About
-- This project uses LSTM model to generate 'fake' tv script by recoginizing pattern, given a dialogue-based script as training data.
-- The LSTM neural network is built form scratch and trained on an episode scriot of TV show 'seinfield'.
+- This project uses LSTM model to generate 'fake' tv script by recognizing pattern, given a dialogue-based script as training data.
+- The LSTM neural network is built form scratch and trained on an episode script of TV show 'seinfield'.
 - The general approach used in building this project was -
   - Download the data from the given source.
   - Create lookup tables which wil provide embeddings to the words in the script based on the given data.
